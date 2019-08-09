@@ -74,8 +74,8 @@ experiences:
       company: OSF Global Services
       details: |
         Integrating the Amazon Web Service (AWS) Managed Services Team, 
-		OpenText CEM Customer Support subcontractor, responsible for drafting support, 
-		deployment and maintenance best practices and automation of cloud hosted services
+		    OpenText CEM Customer Support subcontractor, responsible for drafting support, 
+		    deployment and maintenance best practices and automation of cloud hosted services
           - Cloud Providers
           - Infra as code        
     - role: SRE/Devops Engineer
@@ -94,9 +94,9 @@ experiences:
       company: G4Flex Telecommunications
       details: |
         Develop and deploy Asterisk scripts for a complete and customized VoIP solution 
-		for large companies. Write shell scripts and PHP/Ruby code to perform backups and 
-		security tasks. Support the servers and VoIP infra, monitoring, and troubleshooting 
-		in real time any issue, besides, investigate any recurring bug.
+		    for large companies. Write shell scripts and PHP/Ruby code to perform backups and 
+		    security tasks. Support the servers and VoIP infra, monitoring, and troubleshooting 
+		    in real time any issue, besides, investigate any recurring bug.
           - VoIP Infrastructure
           - Asterisk  		  
 # projects:
@@ -171,7 +171,7 @@ skills:
 
       - name: Script languages (Bash, Ruby, Python, Golang)
         level: 70%  
-	
+
       - name: VoIP/Asterisk
         level: 95%
 
