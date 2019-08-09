@@ -67,6 +67,33 @@ education:
           - Control Systems
           - Embedded Systems
           - AI
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Linux & Unix
+        level: 95%
+
+      - name: Docker & Kubernetes 
+        level: 90%
+
+      - name: Amazon Web Services
+        level: 90%
+
+      - name: Google Cloud Platform
+        level: 90%
+
+      - name: Terraform
+        level: 98%
+
+      - name: Ansible
+        level: 80%
+
+      - name: Script languages (Bash, Ruby, Python, Golang)
+        level: 70%  
+
+      - name: VoIP/Asterisk
+        level: 95%
 experiences:
     - role: Support Engineer Senior
       time: 2019 - PRESENT
@@ -145,34 +172,6 @@ experiences:
 #       - title: A syntax directed compiler for Algol 60
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Linux & Unix
-        level: 95%
-
-      - name: Docker & Kubernetes 
-        level: 90%
-
-      - name: Amazon Web Services
-        level: 90%
-
-      - name: Google Cloud Platform
-        level: 90%
-
-      - name: Terraform
-        level: 98%
-
-      - name: Ansible
-        level: 80%
-
-      - name: Script languages (Bash, Ruby, Python, Golang)
-        level: 70%  
-
-      - name: VoIP/Asterisk
-        level: 95%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
