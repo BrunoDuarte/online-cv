@@ -90,7 +90,7 @@ skills:
         level: 80%
 
       - name: Script languages (Bash, Ruby, Python, Golang)
-        level: 70%  
+        level: 85%  
 
       - name: VoIP/Asterisk
         level: 95%
